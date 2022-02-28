@@ -11,13 +11,13 @@
 
 
 
-I'm a driven self-taught full stack software engineer and a freelance web developer. I'm passionate about helping people solve problems, and bringing my ideas and dreams to life through beautiful and functional interfaces. 
+I'm a driven, self-taught full-stack software engineer and a freelance web developer. I'm passionate about helping people solve problems, and bringing my ideas and dreams to life through beautiful and functional interfaces. 
 
-I am also an open-source enthusiast and maintainer. I've learned a lot from the open-source community and i love how it brings developers together all around the world. 
+I am also an open-source enthusiast. I've learned a lot from the open-source community and i love how it brings developers together from all around the world. 
 
-If you'd my help in bringing your business online with freelance web-development work, feel free to send me <a href = "mailto: sarah@sarahdonaghue.com">📧 email</a>, or book a <a href="https://calendly.com/sarahdonaghue" target="_blank">☎️ call</a> with me! 
+If you'd like my help in bringing your business online with freelance web-development work, feel free to send me an <a href = "mailto: sarah@sarahdonaghue.com">📧 email</a>, or book a <a href="https://calendly.com/sarahdonaghue" target="_blank">☎️ call</a> with me! 
 
-I'f you'd like to support my work in other ways: 
+If you'd like to support my work in other ways: 
 
 <a href="https://www.buymeacoffee.com/sarahdonaghue" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 190px !important;" ></a>
 
